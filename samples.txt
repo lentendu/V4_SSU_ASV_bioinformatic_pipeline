@@ -1,0 +1,10 @@
+Sample141 F10 R4
+Sample142 F10 R7
+Sample143 F10 R2
+Sample144 F10 R9
+Sample145 F1 R10
+Sample146 F1 R5
+Sample147 F1 R3
+Sample148 F1 R8
+Sample149 F1 R4
+Sample150 F1 R7
