@@ -1,7 +1,7 @@
 # Bioinformatic processing for eukaryotic 18S V4 Illumina 2x300nt raw sequencing data
  **Supplementary online data attached to the book chapter:**
 
-*Lentendu, G., Lara, E., Geisen, S.*, 2022. **Metabarcoding Approaches For Soil Eukaryotes, Protists and Microfauna**, in: Martin, F., Uroz, S. (Eds.), Microbial Environmental Genomics (MEG), Methods in Molecular Biology. Springer, New York, NY
+*Lentendu, G., Lara, E., Geisen, S.*, 202?. **Metabarcoding Approaches For Soil Eukaryotes, Protists and Microfauna**, in: Martin, F., Uroz, S. (Eds.), Microbial Environmental Genomics (MEG), Methods in Molecular Biology. Springer, New York, NY, in press
 
 This repository provide the bash and R scripts as well as example data to produce a community matrix with taxonomic assignment out of raw Illumina reads, following all steps described in book chapter section 3.3.1. for case b.
 
